@@ -5,5 +5,5 @@
 
  ## To do list
   ### Feature engineering
-  1) complete action/day count/ratio features for user-merchant level
-  2) how to add brand/category/item level features?
+  1) Generate features
+  2) transfer to Spark?
