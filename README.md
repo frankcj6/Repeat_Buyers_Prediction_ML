@@ -1,15 +1,15 @@
 # E-commerce Repeat buyers churn prediction using machine learning
-
+Created by Frank Jiang
 ![Project_image](https://i.pinimg.com/originals/a2/9e/f3/a29ef3c31e530c749c9dcf5451cf8f5b.jpg)
  
  ---
  ### Table of Contents
  
-   - [Description](#description)
+   - [Description](#Description)
    - [Data](#Data)
-   - [Feature Engineering](#Feature Engineering)
-   - [Model Fitting](#Model Training)
-   - [Cross Validation Algorithm](#Cross Validation Algorithm)
+   - [Feature Engineering](#Feature-Engineering)
+   - [Model Fitting](#Model-Fitting)
+   - [Cross Validation Algorithm](#Cross-Validation-Algorithm)
    - [Results](#Results)
    - [Reference](#Reference)
    - [Resources](#Resources)
@@ -38,7 +38,7 @@ they are repeated buyers. Due to privacy issues, data is sampled in a biased way
 result on this data set would deviate from the actual of Tmall.com. Nevertheless, it will not affect
 the applicability of the solution.
 
- [Back To The Top](#E-commerce Repeat buyers churn prediction using machine learning)
+ [Back To The Top](#Table-of-Contents)
  
 ### Data Processing
  
