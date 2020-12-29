@@ -72,7 +72,7 @@ Through initial EDA, we are able to find some interesting results.
  
  This ends with a total of 81 features that are added into the training and testing dataset.
  
- [Back To The Top](#E-commerce Repeat buyers churn prediction using machine learning)
+ [Back To The Top](#Table-of-Contents)
 
  ## Model Fitting
 In this project, we decide to take the traditional approach in model selection and focus on solving the imbalance outcome issues. 
@@ -97,7 +97,7 @@ cross-validation score while adjusting for the imbalance in the outcome.
  
 For details regarding the simple algorithm, please see our final report.
 
- [Back To The Top](#E-commerce Repeat buyers churn prediction using machine learning)
+ [Back To The Top](#Table-of-Contents)
 
 ## Results
 We use Accuracy and AUC score as our criterion for model evaluation. 
@@ -116,7 +116,7 @@ After this project was completed, the model does not performed to our expectatio
 We used tensorflow with Keras to build a neural network with an extra hidden layer between input and output layer. In order to handle the imbalanced issue, we have compared
 using initial weights, class weights, and oversampling to avoid overfit. For detailed model training and performance, please see the source code in the deep learning folder. 
 
-[Back To The Top](#E-commerce Repeat buyers churn prediction using machine learning)
+[Back To The Top](#Table-of-Contents)
 
 ## Reference
 [1] Guimei Liu, Tam T. Nguyen, Gang Zhao. Repeat Buyer Prediction for E-Commerce
@@ -148,6 +148,6 @@ Available on https://github.com/dmlc/xgboost.
  The links to our presentation for consulting purposes can be found here: 
  [Presentation](#final%20present.pptx) 
  
- [Back To The Top](#E-commerce Repeat buyers churn prediction using machine learning)
+ [Back To The Top](#Table-of-Contents)
  
  
