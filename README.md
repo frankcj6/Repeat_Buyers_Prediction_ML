@@ -11,6 +11,7 @@ Created by Frank Jiang
    - [Model Fitting](#Model-Fitting)
    - [Cross Validation Algorithm](#Cross-Validation-Algorithm)
    - [Results](#Results)
+   - [Extension: Deep learning with tensorflow](#Deep-Learning-with-Tensorflow)
    - [Reference](#Reference)
    - [Resources](#Resources)
  ---
@@ -109,6 +110,13 @@ Based on the best model, we can explore some business insight from the importanc
 
 ![Importance_Plot](Supporting%20Materials/Importance_Plot.PNG)
 For detailed interpretation on importance feature and actionable insight on predicting repeat-customer, please see our presentation slides.
+
+## Deep Learning with Tensorflow
+After this project was completed, the model does not performed to our expectation. Therefore, we decided to adopt deep learning for a better performed model.
+We used tensorflow with Keras to build a neural network with an extra hidden layer between input and output layer. In order to handle the imbalanced issue, we have compared
+using initial weights, class weights, and oversampling to avoid overfit. For detailed model training and performance, please see the source code in the deep learning folder. 
+
+[Back To The Top](#E-commerce Repeat buyers churn prediction using machine learning)
 
 ## Reference
 [1] Guimei Liu, Tam T. Nguyen, Gang Zhao. Repeat Buyer Prediction for E-Commerce
